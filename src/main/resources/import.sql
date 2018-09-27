@@ -1,0 +1,2 @@
+insert into item (etiqueta, descricao, data_aquisicao) values ('NTB123', 'Notebook Dell i5', sysdate());
+insert into item (etiqueta, descricao, data_aquisicao) values ('MOU321', 'Mouse Sem Fio da Clone', sysdate());
